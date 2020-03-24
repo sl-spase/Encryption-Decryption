@@ -19,7 +19,7 @@ the second circle i.e. after 'z' comes 'a' and after 'Z" comes 'A'). Unicode alg
 -in - read string from file
 If both -data and -in are selected the -data has higher priority
 
--out define file for output data(defauld: System.out.println)
+-out - define file for output data(defauld: System.out.println)
 
 Example 1
 Reading from file and output to file
