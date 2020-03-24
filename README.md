@@ -1,6 +1,6 @@
 # Encryption-Decryption
 
-Programs for Encryption-Decryption data using command-line arguments as input data
+Programs for Encryption-Decryption strings using command-line arguments as input data
 
 When starting the program, the necessary algorithm should be specified by an argument (-alg). 
 The first algorithm named shift, the second one named unicode. If there is no -alg you default it to shift.
