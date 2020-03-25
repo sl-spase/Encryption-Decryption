@@ -6,7 +6,7 @@ When starting the program, the necessary algorithm should be specified by an arg
 The first algorithm named shift, the second one named unicode. If there is no -alg you default it to shift.
 
 In case of shift algorithm encode only English letters (from 'a' to 'z' as the first circle and from 'A' to 'Z' as 
-the second circle i.e. after 'z' comes 'a' and after 'Z" comes 'A'). Unicode algorithm shift letters in unicade table
+the second circle i.e. after 'z' comes 'a' and after 'Z" comes 'A'). Unicode algorithm shift letters in unicode table
  
 -alg - for choose the algorithm(shift by default, unicode as second)
 
