@@ -23,6 +23,7 @@ If both -data and -in are selected the -data has higher priority
 
 Example 1
 Reading from file and output to file
+
 java Main -mode enc -in road_to_treasure.txt -out protected.txt -key 5 -alg unicode
 
 Example 2 
